@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Pedro Pereira
 
 - 🔭 Estou buscando minha primeira oportunidade de emprego em TI
-- 🌱 Estudando HTML, Css, JavaScript, Delphi
+- 🌱 Estudando Dart e Flutter
 - 📫 Contato: pereirapedro.1106@gmail.com
 - 😄 Pronomes: ele/dele
 
